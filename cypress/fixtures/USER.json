@@ -1,0 +1,13 @@
+{
+  "name": "hugo",
+  "email": "hugohugo1@gmail.com",
+  "password": "Test1234!",
+  "firstName": "hugo",
+  "lastName": "hugito",
+  "address": "123 agmashenebeli Ave",
+  "country": "India",
+  "city": "Tbilisi",
+  "state":"bihar",
+  "zipcode": "0100",
+  "mobile": "1234567890"
+}
